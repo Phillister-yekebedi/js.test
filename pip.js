@@ -42,3 +42,42 @@ function greaterThan(num, num1){
 }
 console.log(greaterThan(60,6))
 
+
+// Write a function that takes in a array of numbers as a parameter and returns 
+// the second largest number in the array
+function secondLargest(numbers) {
+  for (n in num) {
+    if (num.length -1 > largest) {
+      return num.length -1
+    }
+
+    }
+  }
+
+ console.log(secondLargest(1,2,3,4))
+
+// Write a function that takes a string as a parameter and returns true
+// if the string is a palindrome and false otherwise
+
+function isPalindrome(word) {
+  const reversed = str.split("").reverse().join("");
+  return str === reversed;
+}
+
+let word1 = "madam";
+console.log(`${word1}`);
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
